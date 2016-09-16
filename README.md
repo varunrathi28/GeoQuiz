@@ -2,9 +2,7 @@
 
 # Geo Quiz
 
-![Platform iOS](https://img.shields.io/badge/nanodegree-iOS-blue.svg)
-
-This repository contains starter code for the Geo Quiz project in Udacity's iOS Nanodegree.
+This repository contains Starter project downloaded from ios Developer Nanodegree from Udacity.
 
 ## Overview
 
@@ -16,4 +14,4 @@ There are no special setup instructions, just build and run!
 
 ## Maintainers
 
-@jarrodparkes
+@varunrathi28
